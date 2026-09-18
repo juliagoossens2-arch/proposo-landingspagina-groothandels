@@ -1,1 +1,1 @@
-Proposo-landingspagina voor GitHub Pages. Open index.html voor de website. Het logo en de magazijnfoto staan in de hoofdmap. Het aanvraagformulier is nog niet aangesloten en kan geen aanvragen versturen.
+Proposo landingspagina. Open index.html. Afbeeldingen staan in assets/. Formulier is nog niet gekoppeld.
