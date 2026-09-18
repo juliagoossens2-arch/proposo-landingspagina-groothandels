@@ -1,1 +1,0 @@
-Proposo landingspagina. Open index.html. Afbeeldingen staan in assets/. Formulier is nog niet gekoppeld.
